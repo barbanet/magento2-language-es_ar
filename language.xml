@@ -11,7 +11,7 @@
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>es_AR</code>
-    <vendor>dc</vendor>
+    <vendor>barbanet</vendor>
     <package>es_ar</package>
     <sort_order>10</sort_order>
 </language>

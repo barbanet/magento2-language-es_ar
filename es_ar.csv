@@ -305,12 +305,12 @@ Order,Order,module,Magento_Backend
 "Please try to sign out and sign in again.","Please try to sign out and sign in again.",module,Magento_Backend
 "If you continue to receive this message, please contact the store owner.","If you continue to receive this message, please contact the store owner.",module,Magento_Backend
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_Backend
-"Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
+"Welcome, please sign in","Bienvenido! Inicia sesión",module,Magento_Backend
 Username,Usuario,module,Magento_Backend
 "user name","user name",module,Magento_Backend
-Password,Password,module,Magento_Backend
-password,password,module,Magento_Backend
-"Sign in","Sign in",module,Magento_Backend
+Password,Contraseña,module,Magento_Backend
+password,Contraseña,module,Magento_Backend
+"Sign in","Ingresar",module,Magento_Backend
 "Select Range:","Select Range:",module,Magento_Backend
 "No Data Found","No Data Found",module,Magento_Backend
 "Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.","Chart is disabled. To enable the chart, click <a href=""%1"">here</a>.",module,Magento_Backend
@@ -2151,7 +2151,7 @@ Submit,Submit,module,Magento_Customer
 "If you have an account, sign in with your email address.","If you have an account, sign in with your email address.",module,Magento_Customer
 Password,Password,module,Magento_Customer
 Login,Login,module,Magento_Customer
-"Forgot Your Password?","Forgot Your Password?",module,Magento_Customer
+"Forgot Your Password?","¿Olvidaste tu contraseña?",module,Magento_Customer
 "Subscription option","Subscription option",module,Magento_Customer
 "General Subscription","General Subscription",module,Magento_Customer
 "Sign Up for Newsletter","Sign Up for Newsletter",module,Magento_Customer
@@ -5676,7 +5676,7 @@ Forced,Forced,module,Magento_User
 "Email address","Email address",module,Magento_User
 "Retrieve Password","Retrieve Password",module,Magento_User
 "Back to Sign in","Back to Sign in",module,Magento_User
-"Forgot your password?","Forgot your password?",module,Magento_User
+"Forgot your password?","¿Olvidaste tu contraseña?",module,Magento_User
 "Reset a Password","Reset a Password",module,Magento_User
 "Confirm New Password","Confirm New Password",module,Magento_User
 "Reset Password","Reset Password",module,Magento_User
