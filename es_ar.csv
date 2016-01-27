@@ -230,7 +230,7 @@ Submit,Submit,module,Magento_Backend
 "Unknown block type","Unknown block type",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empry","Please correct the tab configuration and try again. Tab Id should be not empry",module,Magento_Backend
 "Please correct the tab configuration and try again.","Please correct the tab configuration and try again.",module,Magento_Backend
-"You have logged out.","You have logged out.",module,Magento_Backend
+"You have logged out.","Has cerrado la sesión.",module,Magento_Backend
 "Specified cache type(s) don't exist: %1","Specified cache type(s) don't exist: %1",module,Magento_Backend
 "The image cache was cleaned.","The image cache was cleaned.",module,Magento_Backend
 "An error occurred while clearing the image cache.","An error occurred while clearing the image cache.",module,Magento_Backend
@@ -320,7 +320,7 @@ password,Contraseña,module,Magento_Backend
 "There are no search keywords.","There are no search keywords.",module,Magento_Backend
 "View Statistics For:","View Statistics For:",module,Magento_Backend
 "All Websites","All Websites",module,Magento_Backend
-"Reload Data","Reload Data",module,Magento_Backend
+"Reload Data","Actualizar datos",module,Magento_Backend
 "Browse Files...","Browse Files...",module,Magento_Backend
 Magento,Magento,module,Magento_Backend
 "Copyright&copy; %1 Magento Commerce Inc. All rights reserved.","Copyright&copy; %1 Magento Commerce Inc. All rights reserved.",module,Magento_Backend
@@ -912,7 +912,7 @@ Websites,Websites,module,Magento_Catalog
 "There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
 "First Name","First Name",module,Magento_Catalog
 "Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
+"Email","Correo electrónico",module,Magento_Catalog
 "Subscribe Date","Subscribe Date",module,Magento_Catalog
 "Last Notified","Last Notified",module,Magento_Catalog
 "Send Count","Send Count",module,Magento_Catalog
@@ -1762,7 +1762,7 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "Write Us","Write Us",module,Magento_Contact
 "Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
 Name,Name,module,Magento_Contact
-Email,Email,module,Magento_Contact
+"Email","Correo electrónico",module,Magento_Contact
 "Phone Number","Phone Number",module,Magento_Contact
 "What’s on your mind?","What’s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
@@ -2138,7 +2138,7 @@ Country,Country,module,Magento_Customer
 "Save Address","Save Address",module,Magento_Customer
 "Go back","Go back",module,Magento_Customer
 "Please enter your email below and we will send you the confirmation link.","Please enter your email below and we will send you the confirmation link.",module,Magento_Customer
-Email,Email,module,Magento_Customer
+"Email","Correo electrónico",module,Magento_Customer
 "Send confirmation link","Send confirmation link",module,Magento_Customer
 "Back to Sign In","Back to Sign In",module,Magento_Customer
 "Current Password","Current Password",module,Magento_Customer
@@ -2367,7 +2367,7 @@ System,System,module,Magento_Eav
 None,None,module,Magento_Eav
 "Decimal Number","Decimal Number",module,Magento_Eav
 "Integer Number","Integer Number",module,Magento_Eav
-Email,Email,module,Magento_Eav
+"Email","Correo electrónico",module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,Letters,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","Letters (a-z, A-Z) or Numbers (0-9)",module,Magento_Eav
@@ -2818,7 +2818,7 @@ Save,Save,module,Magento_Integration
 "Integration Info","Integration Info",module,Magento_Integration
 General,General,module,Magento_Integration
 Name,Name,module,Magento_Integration
-Email,Email,module,Magento_Integration
+"Email","Correo electrónico",module,Magento_Integration
 "Callback URL","Callback URL",module,Magento_Integration
 "Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.","Enter URL where Oauth credentials can be sent when using Oauth for token exchange. We strongly recommend using https://.",module,Magento_Integration
 "Identity link URL","Identity link URL",module,Magento_Integration
@@ -3242,7 +3242,7 @@ No,No,module,Magento_Payment
 "Credit Card Information","Credit Card Information",module,Magento_Payment
 "Billing Agreements","Billing Agreements",module,Magento_Paypal
 ID,ID,module,Magento_Paypal
-Email,Email,module,Magento_Paypal
+"Email","Correo electrónico",module,Magento_Paypal
 "First Name","First Name",module,Magento_Paypal
 "Last Name","Last Name",module,Magento_Paypal
 "Reference ID","Reference ID",module,Magento_Paypal
@@ -3830,7 +3830,7 @@ Carrier/Method,Carrier/Method,module,Magento_Reports
 Rate,Rate,module,Magento_Reports
 "Tax Amount","Tax Amount",module,Magento_Reports
 "Abandoned carts","Abandoned carts",module,Magento_Reports
-Email,Email,module,Magento_Reports
+"Email","Correo electrónico",module,Magento_Reports
 Products,Products,module,Magento_Reports
 Quantity,Quantity,module,Magento_Reports
 "Applied Coupon","Applied Coupon",module,Magento_Reports
@@ -4642,7 +4642,7 @@ title,title,module,Magento_Sales
 City,City,module,Magento_Sales
 Company,Company,module,Magento_Sales
 Country,Country,module,Magento_Sales
-Email,Email,module,Magento_Sales
+"Email","Correo electrónico",module,Magento_Sales
 "First Name","First Name",module,Magento_Sales
 "Last Name","Last Name",module,Magento_Sales
 State/Province,State/Province,module,Magento_Sales
@@ -4916,7 +4916,7 @@ Exception.,Exception.,module,Magento_SendFriend
 "Remove Recipent","Remove Recipent",module,Magento_SendFriend
 Remove,Remove,module,Magento_SendFriend
 Name,Name,module,Magento_SendFriend
-Email,Email,module,Magento_SendFriend
+"Email","Correo electrónico",module,Magento_SendFriend
 "* Required Fields","* Required Fields",module,Magento_SendFriend
 Sender,Sender,module,Magento_SendFriend
 Message,Message,module,Magento_SendFriend
@@ -5595,7 +5595,7 @@ Roles,Roles,module,Magento_User
 "User Name","User Name",module,Magento_User
 "First Name","First Name",module,Magento_User
 "Last Name","Last Name",module,Magento_User
-Email,Email,module,Magento_User
+"Email","Correo electrónico",module,Magento_User
 Status,Status,module,Magento_User
 Active,Active,module,Magento_User
 Inactive,Inactive,module,Magento_User
@@ -7117,7 +7117,7 @@ Unsubscribe,Unsubscribe,module,Magento_Newsletter
 Delete,Delete,module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
-Email,Email,module,Magento_Newsletter
+"Email","Correo electrónico",module,Magento_Newsletter
 Type,Type,module,Magento_Newsletter
 Guest,Guest,module,Magento_Newsletter
 Customer,Customer,module,Magento_Newsletter
