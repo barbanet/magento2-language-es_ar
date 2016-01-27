@@ -2,7 +2,7 @@
     "name": "barbanet/magento2-language-es_ar",
     "description": "Spanish (Argentina) language",
     "type": "magento2-language",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "license": [
         "MIT"
     ],
